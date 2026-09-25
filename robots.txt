@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://3donlyee.github.io/rihija74/sitemap.xml
